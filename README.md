@@ -1,5 +1,5 @@
 # JPMC Task 1
-repo for task 1 of the JPMC software engineering program
+repo for task 1 of the JP Morgan Chase software engineering program
 J.P. Morgan Software Engineering Virtual Experience on Forage - October 2022
 
 Set up a local dev environment by downloading the necessary files, tools and dependencies.
